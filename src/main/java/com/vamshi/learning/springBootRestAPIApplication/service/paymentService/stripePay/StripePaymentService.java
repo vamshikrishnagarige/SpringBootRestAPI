@@ -1,6 +1,6 @@
-package com.vamshi.learning.internalWorkingOfSpringBootApplication.stripePay;
+package com.vamshi.learning.springBootRestAPIApplication.service.paymentService.stripePay;
 
-import com.vamshi.learning.internalWorkingOfSpringBootApplication.paymentService.PaymentService;
+import com.vamshi.learning.springBootRestAPIApplication.service.paymentService.PaymentService;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.stereotype.Component;
 
